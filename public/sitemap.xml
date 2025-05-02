@@ -2,45 +2,36 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://192.168.0.247:1313/</loc><lastmod>2025-05-02T14:55:56&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/posts/</loc><lastmod>2025-05-02T14:55:56&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/test-tenth/</loc><lastmod>2025-05-02T14:55:56&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/ac-dc-rock-n-roll-train/</loc><lastmod>2025-05-02T08:58:54&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://192.168.0.247:1313/</loc><lastmod>2025-05-01T16:04:15&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://192.168.0.247:1313/projects/</loc><lastmod>2025-05-01T16:04:15&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://192.168.0.247:1313/projects/rrv/</loc><lastmod>2025-05-01T16:04:15&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://192.168.0.247:1313/blog/</loc><lastmod>2025-05-01T16:02:37&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://192.168.0.247:1313/blog/first-blog/</loc><lastmod>2025-05-01T16:02:37&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://192.168.0.247:1313/another/</loc><lastmod>2025-05-01T15:53:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/seventh/</loc><lastmod>2025-04-30T12:52:30&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/sixth/</loc><lastmod>2025-04-30T12:52:21&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/fifth/</loc><lastmod>2025-04-30T12:52:15&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/fourth/</loc><lastmod>2025-04-30T12:52:03&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/third/</loc><lastmod>2025-04-29T20:27:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://192.168.0.247:1313/about/</loc><lastmod>2025-04-23T21:04:47&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://192.168.0.247:1313/posts/</loc><lastmod>2025-04-23T13:46:32&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>http://192.168.0.247:1313/second_post/</loc><lastmod>2025-04-23T13:46:32&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
             <loc>http://192.168.0.247:1313/first_post/</loc><lastmod>2025-04-23T11:22:32&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://192.168.0.247:1313/tags/2024/</loc><lastmod>2025-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/tags/ai/</loc><lastmod>2025-03-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://192.168.0.247:1313/tags/artistatthetable/</loc><lastmod>2025-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/categories/</loc><lastmod>2025-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/categories/conferences/</loc><lastmod>2025-03-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://192.168.0.247:1313/tags/entrepreneurs/</loc><lastmod>2025-03-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://192.168.0.247:1313/tags/kulaconclave2024/</loc><lastmod>2025-03-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://192.168.0.247:1313/categories/linkedin/</loc><lastmod>2025-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/tags/</loc><lastmod>2025-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/the-role-of-technology-in-empowering-the-crafts-sector-in-india-some-learnings/</loc><lastmod>2025-03-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://192.168.0.247:1313/a-page-from-my-diary-2024/</loc><lastmod>2025-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/tags/art/</loc><lastmod>2025-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/tags/ash-center/</loc><lastmod>2025-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/tags/democracy/</loc><lastmod>2025-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/tags/my-diary/</loc><lastmod>2025-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://192.168.0.247:1313/categories/projects/</loc><lastmod>2025-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://192.168.0.247:1313/tags/artisans/</loc><lastmod>2024-10-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/categories/</loc><lastmod>2024-10-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/tags/entrepreneurs/</loc><lastmod>2024-10-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://192.168.0.247:1313/projects/kaari/</loc><lastmod>2024-10-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://192.168.0.247:1313/tags/kaari/</loc><lastmod>2024-10-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/categories/projects/</loc><lastmod>2024-10-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/tags/</loc><lastmod>2024-10-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://192.168.0.247:1313/tags/xr/</loc><lastmod>2024-10-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://192.168.0.247:1313/tags/around/</loc><lastmod>2024-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://192.168.0.247:1313/tags/mit/</loc><lastmod>2024-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://192.168.0.247:1313/tags/mit-media-lab/</loc><lastmod>2024-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>http://192.168.0.247:1313/projects/mit-hackathon/</loc><lastmod>2024-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://192.168.0.247:1313/tags/wins/</loc><lastmod>2024-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>http://192.168.0.247:1313/tags/wins/</loc><lastmod>2024-05-01T15:58:26&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/tags/2024/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/tags/ai/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/tags/art/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/tags/artistatthetable/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/tags/ash-center/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/categories/conferences/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/tags/democracy/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/tags/kulaconclave2024/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/categories/linkedin/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://192.168.0.247:1313/tags/my-diary/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
