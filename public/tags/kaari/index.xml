@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Kaari - Tag - Dr. Anandana Kapur</title>
-        <link>http://192.168.0.247:1313/tags/kaari/</link>
+        <link>http://192.168.0.247:35729/tags/kaari/</link>
         <description>Kaari - Tag - Dr. Anandana Kapur</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>contact.anandana@gmail.com (Dr. Anandana Kapur)</managingEditor>
-            <webMaster>contact.anandana@gmail.com (Dr. Anandana Kapur)</webMaster><copyright>Dr. Anandana Kapur</copyright><lastBuildDate>Sat, 10 Aug 2024 01:00:00 &#43;0540</lastBuildDate><atom:link href="http://192.168.0.247:1313/tags/kaari/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>contact.anandana@gmail.com (Dr. Anandana Kapur)</webMaster><copyright>Dr. Anandana Kapur</copyright><lastBuildDate>Sat, 10 Aug 2024 01:00:00 &#43;0540</lastBuildDate><atom:link href="http://192.168.0.247:35729/tags/kaari/" rel="self" type="application/rss+xml" /><item>
     <title>Kaari</title>
-    <link>http://192.168.0.247:1313/projects/kaari/</link>
+    <link>http://192.168.0.247:35729/projects/kaari/</link>
     <pubDate>Sat, 10 Aug 2024 01:00:00 &#43;0540</pubDate>
     <author>Author</author>
-    <guid>http://192.168.0.247:1313/projects/kaari/</guid>
+    <guid>http://192.168.0.247:35729/projects/kaari/</guid>
     <description><![CDATA[<p>Kaari provides artisan enterprises with a platform to build and sell nontraditional, digital products to XR enterprises seeking highly differentiated assets.<br />
 <br />
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
