@@ -1,0 +1,4 @@
+backend:
+  name: proxy
+  proxy_url: http://192.168.0.247:8081/api/v1
+  branch: master # optional, defaults to master
