@@ -1,5 +1,5 @@
 +++
 date = '2025-04-30T12:52:30+05:30'
-draft = true
+draft = false
 title = 'Seventh'
 +++

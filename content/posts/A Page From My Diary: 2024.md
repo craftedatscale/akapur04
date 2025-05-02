@@ -3,7 +3,7 @@ title: "A Page from My Diary: 2024"
 subtitle: ""
 date: 2025-01-01T01:00:00+05:40
 lastmod: 2025-05-01T15:58:26+05:30
-draft: true
+draft: false
 author: ""
 authorLink: ""
 description: "efgh"
