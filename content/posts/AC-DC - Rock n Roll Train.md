@@ -11,6 +11,6 @@ AC/DC, Rock n Roll Train, 2008<br />
 {{< youtube FrFvNphZ5BQ >}}
 _
 <br />
-2025 05 02
-- 1325: YT doesn't show on mobile.
+2025 05 02<br />
+- 1325: YT doesn't show on mobile.<br />
 - 1525: YT shows on mobile in Firefox and Chrome. Doesn't show on Firefox Focus.
