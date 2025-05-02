@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Dr. Anandana Kapur</title>
+    <link>http://192.168.0.247:1313/blog/</link>
+    <description>Recent content in Blogs on Dr. Anandana Kapur</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>contact.anandana@gmail.com (Dr. Anandana Kapur)</managingEditor>
+    <webMaster>contact.anandana@gmail.com (Dr. Anandana Kapur)</webMaster>
+    <copyright>Dr. Anandana Kapur</copyright>
+    <lastBuildDate>Thu, 01 May 2025 16:02:37 +0530</lastBuildDate>
+    <atom:link href="http://192.168.0.247:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog</title>
+      <link>http://192.168.0.247:1313/blog/first-blog/</link>
+      <pubDate>Thu, 01 May 2025 16:02:37 +0530</pubDate><author>contact.anandana@gmail.com (Dr. Anandana Kapur)</author>
+      <guid>http://192.168.0.247:1313/blog/first-blog/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

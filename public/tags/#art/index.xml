@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>#Art - Tag - Dr. Anandana Kapur</title>
+        <link>http://192.168.0.247:1313/tags/%23art/</link>
+        <description>#Art - Tag - Dr. Anandana Kapur</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>contact.anandana@gmail.com (Dr. Anandana Kapur)</managingEditor>
+            <webMaster>contact.anandana@gmail.com (Dr. Anandana Kapur)</webMaster><copyright>Dr. Anandana Kapur</copyright><atom:link href="http://192.168.0.247:1313/tags/%23art/" rel="self" type="application/rss+xml" /></channel>
+</rss>

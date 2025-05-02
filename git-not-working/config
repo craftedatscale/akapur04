@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@github.com:craftedatscale/akapur04
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[submodule "themes/LoveIt"]
+	url = https://github.com/dillonzq/LoveIt.git
+	active = true
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[pull]
+	rebase = false

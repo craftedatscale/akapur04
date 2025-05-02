@@ -1,0 +1,23 @@
+# pack-refs with: peeled fully-peeled sorted 
+ac60e01805a415e7a738b16ebf9e0b77d66810c9 refs/remotes/origin/feature/update-waline
+c8b6512799a773d67744d74511ec3a5e64a209a3 refs/remotes/origin/master
+c4baf9ee7d70d2cc5f8d1fd58e791bbdef94c172 refs/remotes/origin/release
+45ab6d89ca5dc35e0772cfaede1e99488e8a64f8 refs/tags/v0.1.0
+e78ba137b70a08a7a9e6c37e2490d571b8c809a2 refs/tags/v0.1.1
+ff4d2f2cade5e1112812f6b042b3e8bba6c8f075 refs/tags/v0.1.2
+9928d46a377de3e835ef849e9a5e3731f491192d refs/tags/v0.1.3
+bf7c4b5173c3baba02b87a410ce04909c1b86cf6 refs/tags/v0.1.4
+2ccba79cba656a5a220e7323519173db2d38b9ed refs/tags/v0.2.0
+d24df519506d8efd6a64fe3d2c1582750536bd1e refs/tags/v0.2.1
+f787a4e5ad4edf60467658d10c286248dc5027a6 refs/tags/v0.2.10
+0cb5ce6091561bec43c764563cce75023b4ad7cb refs/tags/v0.2.11
+^dd77465252a0cba3ae33c12294f0deb13f8485c0
+1e7dab4b9b35f89c8f6a7e8f7aa348c35e90601b refs/tags/v0.2.2
+bbea71fa031fd8e320cb2792cabc363d2e9b3358 refs/tags/v0.2.3
+e3d774fb6502c09be98000b35ed719ed3fec5290 refs/tags/v0.2.4
+01bd6e8c9594ad955283e7ed0b05dbb84ddec041 refs/tags/v0.2.5
+ee5f757fe952b498acebabef5883bc7bd9dc08b4 refs/tags/v0.2.6
+9f58106e1f0685da97a6a412b97dfd62e7c4b559 refs/tags/v0.2.7
+b30fc82520a488f2d644c37ffbba9a7e63f20e98 refs/tags/v0.2.8
+40c27dc21d839ce43b85e78844902ca79946389e refs/tags/v0.2.9
+f59fb4ecc2ce6c95e0b3395e3d3da9637d5581cd refs/tags/v0.3.0
