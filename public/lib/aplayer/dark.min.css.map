@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "dark.min.css",
-	"sourceRoot": "/home/bhaskar/hu/git-anandanakapur.com/ak4loveit",
+	"sourceRoot": "/home/bhaskar/hu/git-anandanakapur.com/repo-akapur04",
 	"sources": [
 		"themes/LoveIt/assets/lib/aplayer/dark.scss"
 	],

@@ -9,7 +9,7 @@ content:
       - {name: subtitle, label: Subtitle, type: string}
       - {name: date, label: Date, type: date}
       - {name: lastmod, label: Last Modified, type: date}
-      - {name: draft, label: Draft, type: boolean, default: true}
+      - {name: draft, label: Draft N/Y, type: boolean, default: true}
       - {name: author, label: Author, type: string}
       - {name: description, label: Description, type: string, options: ( maxlength: 160 ) }
       - {name: tags, label: Tags, type: string}
