@@ -1,1 +1,22 @@
 media: assets
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: content/posts
+    fields:
+      - {name: title, label: Title, type: string}
+      - {name: subtitle, label: Subtitle, type: string}
+      - {name: date, label: Date, type: date}
+      - {name: lastmod, label: Last Modified, type: date}
+      - {name: draft, label: Draft Y/N, type: boolean, default: true}
+      - {name: author, label: Author, type: string}
+      - {name: description, label: Description, type: string, options: ( maxlength: 160 ) }
+      - {name: tags, label: Tags, type: string}
+      - {name: categories, label: Categories, type: string}
+      - {name: image, label: Image, type: image}
+      - {name: body, label: Body, type: rich-text}
+      - {name: hiddenFromHomePage, label: Hidden from home page, type: boolean, default: false, hidden: true}
+      - {name: hiddenFromSearch, label: Hidden from site search, type: boolean, default: false, hidden: true}
+      - {name: lightgallery, label: Light Gallery, type: boolean, default: true, hidden: true}
+      - {name: fontawesome, label: Font Awesome, type: boolean, default: true, hidden: true}
